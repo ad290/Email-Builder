@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # E-mail Template Generatort
 Simple and useful web app to generate e-mails for any reason you want!
 <br/><br/>
