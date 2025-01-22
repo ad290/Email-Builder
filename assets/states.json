@@ -1,0 +1,13 @@
+{
+  "header": {
+    "Default": "https://github.com/ad290/Email-Builder/blob/main/header.jpg",
+    "option 1":"",
+    "option 2":""
+  },
+  "title": {
+    "Default": "https://github.com/ad290/Email-Builder/blob/main/temp1.png",
+    "option 1":"email-template-generator/assets/temp2.png",
+    "option 2":"",
+    "option 3":""
+  } 
+}
