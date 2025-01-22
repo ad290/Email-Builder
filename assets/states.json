@@ -1,13 +1,16 @@
 {
   "header": {
-    "Default": "https://github.com/ad290/Email-Builder/blob/main/header.jpg",
-    "option 1":"",
-    "option 2":""
+    "Default": "https://github.com/ad290/Email-Builder/blob/main/assets/temp1.png?raw=true",
+    "option 1":"https://github.com/ad290/Email-Builder/blob/main/assets/header2.jpg?raw=true",
+    "option 2":"https://github.com/ad290/Email-Builder/blob/main/assets/Header3.png?raw=true",
+    "option 3":"https://github.com/ad290/Email-Builder/blob/main/assets/header4.png?raw=true"
+
+
   },
   "title": {
-    "Default": "https://github.com/ad290/Email-Builder/blob/main/temp1.png",
-    "option 1":"email-template-generator/assets/temp2.png",
-    "option 2":"",
-    "option 3":""
+    "Default": "https://github.com/ad290/Email-Builder/blob/main/assets/header.jpg?raw=true",
+    "option 1":"https://github.com/ad290/Email-Builder/blob/main/assets/title1.png?raw=true",
+    "option 2":"https://github.com/ad290/Email-Builder/blob/main/assets/title2.png?raw=true",
+    "option 3":"https://github.com/ad290/Email-Builder/blob/main/assets/title3.png?raw=true"
   } 
 }
