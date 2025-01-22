@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-mail Template Generatort
 Simple and useful web app to generate e-mails for any reason you want!
 <br/><br/>
@@ -42,3 +43,6 @@ Once you have it installed, you can:
 - [Material Design Icons](http://materialdesignicons.com/)
 <br/><br/>
 
+=======
+# Email-Builder
+>>>>>>> 4548c64342c5f91318e376d91f55496e4c5906cf
