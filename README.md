@@ -1,5 +1,5 @@
 
-# E-mail Template Generatort
+# E-mail Template Generator
 Simple and useful web app to generate e-mails for any reason you want!
 <br/><br/>
 
